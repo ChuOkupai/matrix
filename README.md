@@ -27,7 +27,7 @@ I've chosen Python as programming language for this project because of its flexi
 - Transposition
 - Rank calculation
 - Trace calculation
-- Determinant calculation for matrices up to 3x3
+- Determinant calculation for matrices up to 4x4
 - Reduced row echelon form calculation (RREF)
 - Inverse calculation
 
